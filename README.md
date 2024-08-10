@@ -1,9 +1,6 @@
 # Tiny-Healer
 
-World of Warcraft healing demo, minus the game. Tiny Healer as a simple as it gets, a basic dungeon healing gameplay loop in a single index.html file.
-
-## TL;DR
-Tiny Healer is made with the gameplay loop of a healer in World of Warcraft in mind. Healing in a dungeon minus the game.
+World of Warcraft healing game, minus the game. Tiny Healer as a simple as it gets, a basic dungeon healing gameplay loop in a single index.html file.
 
 ## Rules
 You are a healer, you cannot die yourself.
